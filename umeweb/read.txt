@@ -1,0 +1,48 @@
+music.html注意事項:
+專輯封面300*300、mp3檔
+
+暫存:
+<li>
+                        <div class="row">
+                            <!-- 1 -->
+                            <span>K-391 & Emelie Hollow - Lily</span>
+                            <p>Alan Walker</p>
+                        </div>
+                        <span class="audio-duration">3:15</span>
+                    </li>
+
+                    <li>
+                        <div class="row">
+                            <!-- 2 -->
+                            <span>Sabrina Carpenter & Farruko - On My Way</span>
+                            <p>Alan Walker</p>
+                        </div>
+                        <span class="audio-duration">3:13</span>
+                    </li>
+
+                    <li>
+                        <div class="row">
+                            <!-- 3 -->
+                            <span>YOU&I - IU</span>
+                            <p>IU</p>
+                        </div>
+                        <span class="audio-duration">4:01</span>
+                    </li>
+
+                    <li>
+                        <div class="row">
+                            <!-- 4 -->
+                            <span>A Dangerous Thing - AURORA</span>
+                            <p>AURORA</p>
+                        </div>
+                        <span class="audio-duration">3:36</span>
+                    </li>
+
+                    <li>
+                        <div class="row">
+                            <!-- 5 -->
+                            <span>Cécilia Cara - La vaguelette</span>
+                            <p>HOYO-MiX</p>
+                        </div>
+                        <span class="audio-duration">02:30</span>
+                    </li>
